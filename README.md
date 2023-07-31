@@ -9,7 +9,6 @@ Vue, Jsonplaceholder API
 ## Project setup
 
 ```
-
 npm install
 
 ```
@@ -17,7 +16,6 @@ npm install
 ### Compiles and hot-reloads for development
 
 ```
-
 npm run serve
 
 ```
@@ -32,7 +30,3 @@ to see the live demo of the project.
 -  **Table**
 
 ![App Screenshot](https://github.com/ramazandogna/searchable-table/blob/master/src/assets/screenshots/table.png)
-
-```
-
-```
